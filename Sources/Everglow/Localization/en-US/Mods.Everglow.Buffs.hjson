@@ -1,14 +1,14 @@
 DevilHeartSetBuff: {
-	DisplayName: Devil Heart Overcharge
+	DisplayName: Mana Core Overclock
 	Description:
 		'''
-		Stop regenerate mana and reduce defense
-		But gain magic damage and critical strike chance bonus, also minion slot
+		Disables Mana regeneration and reduces defense
+		Increases magic damage, critical chance, and max number of minions
 		'''
 }
 
 BloodSwordStrikeBuff: {
-	DisplayName: Blood Sword Strike Buff
+	DisplayName: Haematophage
 	Description: ""
 }
 
@@ -18,118 +18,194 @@ LifeRotten: {
 }
 
 BloodDrinking: {
-	DisplayName: Blood Drinking
+	DisplayName: Bloodthirst
 	Description: ""
 }
 
 OnElectric: {
-	DisplayName: On Electric
+	DisplayName: Shocked
 	Description: ""
 }
 
 StaminaEnergyBuff: {
-	DisplayName: Stamina Energy Buff
-	Description: ""
+	DisplayName: Energy Drink
+	Description: "Increased stamina when using rapiers"
 }
 
 StarCrack: {
-	DisplayName: Star Crack
+	DisplayName: Star Burst
 	Description: ""
 }
 
 AppleBuff: {
-	DisplayName: Apple Buff
-	Description: ""
+	DisplayName: Apple
+	Description: 
+	'''
+	5% increased damage reduction!!!
+	An apple a day, keeps the doctors away
+	'''
 }
 
 ApplePieBuff: {
-	DisplayName: Apple Pie Buff
-	Description: ""
+	DisplayName: Apple Pie 
+	Description: 
+	'''
+	5% increased damage reduction and 1 HP/s increased life regeneration!!!
+	An apple a day, keeps the doctors away, apple pie is also okay
+	'''
 }
 
 ApricotBuff: {
-	DisplayName: Apricot Buff
-	Description: ""
+	DisplayName: Apricot
+	Description: 
+	'''
+	Increased mana regeneration by 4!!!
+	Relieves coughing and nourishes the lungs
+	'''
 }
 
 BaconBuff: {
-	DisplayName: Bacon Buff
-	Description: ""
+	DisplayName: Bacon
+	Description: 
+	'''
+	Increased life regeneration by 2 HP/s, reduced damage from cold sources
+	Knowledge is power, France is bacon
+	'''
 }
 
 BananaBuff: {
-	DisplayName: Banana Buff
-	Description: ""
+	DisplayName: Banana
+	Description: 
+	'''
+	5% chance to save ammo, 5% increased attack speed of machine guns!!! 
+	"Potassium" 
+	'''
 }
 
 BananaSplitBuff: {
-	DisplayName: Banana Split Buff
-	Description: ""
+	DisplayName: Banana Split
+	Description: 
+	'''
+	10% chance to save ammo, 6% increased ranged critical chance!!! 
+	"Kris Get The Banana" 
+	'''
 }
 
 BBQRibsBuff: {
-	DisplayName: BBQRibs Buff
-	Description: ""
+	DisplayName: BBQRibs
+	Description: 
+	'''
+	Max Health increased by 50!!!
+	Grilled to perfection!
+	'''
 }
 
 BlackCurrantBuff: {
-	DisplayName: Black Currant Buff
-	Description: ""
+	DisplayName: Blackcurrant
+	Description: 
+	'''
+	Grants Night Owl and Dangersense effects
+	Improved vision
+	'''
 }
 
 BloodOrangeBuff: {
-	DisplayName: Blood Orange Buff
-	Description: ""
+	DisplayName: Blood Orange
+	Description: 
+	'''
+	Max Health increased by 25!!!
+	"It's fucking red"
+	'''
 }
 
 BowlofSoupBuff: {
-	DisplayName: Bowlof Soup Buff
-	Description: ""
+	DisplayName: Bowl of Soup 
+	Description: 
+	'''
+	Max Mana increased by 40 and magic damage increased by 5%
+	Good for your brain
+	'''
 }
 
 BunnyStewBuff: {
-	DisplayName: Bunny Stew Buff
-	Description: ""
+	DisplayName: Bunny Stew 
+	Description: 
+	'''
+	Increases jump speed and allows auto-jump
+	No bunnies were harmed during the making of this stew
+	'''
 }
 
 BurgerBuff: {
-	DisplayName: Burger Buff
-	Description: ""
+	DisplayName: Burger
+	Description: 
+	'''
+	Reduced movement speed, increased defense
+	Calorie bomb
+	'''
 }
 
 CherryBuff: {
-	DisplayName: Cherry Buff
-	Description: ""
+	DisplayName: Cherry
+	Description: 
+	'''
+	Explode after death
+	"I am become Death"
+	'''
 }
 
 ChickenNuggetBuff: {
-	DisplayName: Chicken Nugget Buff
-	Description: ""
+	DisplayName: Chicken Nugget
+	Description: 
+	'''
+	1 HP/s increased life regeneration, 4% increased attack speed
+	Gegagedigedagedago
+	'''
 }
 
 ChocolateChipCookieBuff: {
-	DisplayName: Chocolate Chip Cookie Buff
-	Description: ""
+	DisplayName: Chocolate Chip Cookie
+	Description: 
+	'''
+	2/s increased HP and mana regen
+	Replenishes energy
+	'''
 }
 
 ChristmasPuddingBuff: {
 	DisplayName: Christmas Pudding Buff
-	Description: ""
+	Description: 
+	'''
+	Bouncy projectiles bounce one more time
+	The war on Christmas they say
+	'''
 }
 
 CoconutBuff: {
-	DisplayName: Coconut Buff
-	Description: ""
+	DisplayName: Coconut
+	Description: 
+	'''
+	Increased defense by 4 and damage reduction by 3%!!!
+	If you eat too much, you'll get very fat
+	'''
 }
 
 CookedFishBuff: {
-	DisplayName: Cooked Fish Buff
-	Description: ""
+	DisplayName: Cooked Fish
+	Description: 
+	'''
+	Increased max mana by 40 and magic crit chance by 4%!!!
+	You know what that means... 
+	'''
 }
 
 CookedMarshmallowBuff: {
-	DisplayName: Cooked Marshmallow Buff
-	Description: ""
+	DisplayName: Cooked Marshmallow
+	Description: 
+	'''
+	Fall speed increased by 75% but you can't control your fall speed
+	Gone with the wind
+	'''
 }
 
 CookedShrimpBuff: {
